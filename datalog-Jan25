@@ -1,0 +1,24 @@
+250118 - 4 black plastics have been measured 
+       - Scan type - angle sweep
+       - Parameters: 
+        		b - board v1 amp x10, billyclassic - dio pos standard
+						g - 100Hz, vg = 0.170, voff = -1.926
+						adc - 2MHz, 0.250 per channel.	
+						sweep - [358.0:001.0, 7] - step motor routine 350 - 358. 
+						filter - 1.3 SG
+						drop - manual, at least 3cm.
+						belt - Billy
+			 - scanned: P1, P2, P3, P4.
+
+250119 - 4 black plastics have been measured 
+       - Scan type - angle sweep
+       - Parameters: 
+        		b - board v1 amp x20, billyenhanced - dio pos standard
+						g - 100Hz, vg = 0.180, voff = -1.926
+						adc - 2MHz, 0.250 per channel.
+						sweep - [358.0:001.0, 7] - step motor routine 350 - 358. 
+						filter - 1.3 SG
+						drop - manual, at least 3cm.
+						belt - Billy (new noise today)	
+			 - scanned: P1, P2, P3, P4.
+						
